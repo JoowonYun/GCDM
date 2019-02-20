@@ -1,0 +1,6 @@
+C:\Users\limku\source\repos\GCDM\bin\Debug\GCDM.dll
+C:\Users\limku\source\repos\GCDM\bin\Debug\GCDM.pdb
+C:\Users\limku\source\repos\GCDM\obj\Debug\GCDM.csprojAssemblyReference.cache
+C:\Users\limku\source\repos\GCDM\obj\Debug\GCDM.csproj.CoreCompileInputs.cache
+C:\Users\limku\source\repos\GCDM\obj\Debug\GCDM.dll
+C:\Users\limku\source\repos\GCDM\obj\Debug\GCDM.pdb

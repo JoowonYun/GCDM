@@ -1,0 +1,5 @@
+C:\Users\limku\source\repos\GCDM\bin\Release\GCDM.dll
+C:\Users\limku\source\repos\GCDM\bin\Release\GCDM.pdb
+C:\Users\limku\source\repos\GCDM\obj\Release\GCDM.csproj.CoreCompileInputs.cache
+C:\Users\limku\source\repos\GCDM\obj\Release\GCDM.dll
+C:\Users\limku\source\repos\GCDM\obj\Release\GCDM.pdb
